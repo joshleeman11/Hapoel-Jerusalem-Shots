@@ -1,6 +1,6 @@
 # Hapoel Jerusalem Soccer Team - Player Shots
 <p float="left">
-  <img src="image4.png" width="480" />
+  <img src="image4 (1).png" width="480" />
   <img src="image7.png" width="500" /> 
 </p>
 
